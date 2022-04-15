@@ -1,4 +1,4 @@
-# vue-resource-ile-http-servislerine-baglanmak
+# Connecting to http services with vue resource
 
 > A Vue.js project
 
